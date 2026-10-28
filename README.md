@@ -6,4 +6,4 @@ La página presenta la empresa, su trayectoria y sus servicios relacionados con 
 
 ## Sitio web
 
-https://bnbconsultoria.com/
+https://bnbconsultoria.com
